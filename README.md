@@ -1,1 +1,3 @@
 # Tugas-JST-2
+RAHMAT FIKRI WAHYUDI ( G1A018054 )
+Membahas tentang LSTM dan MLP
